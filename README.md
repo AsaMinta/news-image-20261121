@@ -5,3 +5,4 @@
 [![Reward](https://make.fun/badge/news-image-20261121/AsaMinta/news-image-20261121/reward.svg)](https://make.fun/bounty/news-image-20261121)
 
 Deterministic Python 3.13 world news infographic generator for Saturday, 21 November 2026 (`1024x1024` PNG, standard library only).
+[View Bounty on make.fun](https://make.fun/bounty/news-image-20261121)
