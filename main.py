@@ -104,7 +104,7 @@ def generate():
     # High contrast branding
     c.fill_rect(20, 20, 984, 120, (0, 0, 0)) # Black masthead
     c.draw_text("WORLD NEWS DIGEST", 50, 40, 6, (255, 255, 255))
-    c.draw_text("SATURDAY, 21 NOVEMBER 2026", 50, 100, 2, (255, 255, 0)) # Yellow date
+    c.draw_text("SATURDAY, 21 NOVEMBER 2026", 50, 100, 2, (255, 255, 255)) # White date for better contrast
 
     # Grid
     cards = [
